@@ -1,0 +1,12 @@
+Number of variables: n = 6
+GF extension exponent: l = 1
+Polynomials' degree: b = 3
+Total number of polynomials in file: 5
+Bent functions type: PS-
+Number of polynomials needed for a single function: t = 4
+
+Function: 1523194907C1A1FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^3  	p_3(X) = X^3 + X^2 + 1 	p_4(X) = X^3 + X + 1 
+Function: 8531150B436189FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^3  	p_3(X) = X^3 + X^2 + 1 	p_5(X) = X^3 + X^2 + X + 1 
+Function: 91130D4345A129FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^3  	p_4(X) = X^3 + X + 1 	p_5(X) = X^3 + X^2 + X + 1 
+Function: 94321C4A46E0A8FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X^3 + X^2 + 1 	p_4(X) = X^3 + X + 1 	p_5(X) = X^3 + X^2 + X + 1 
+Function: 95331D4B47E1A900 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^3  	p_3(X) = X^3 + X^2 + 1 	p_4(X) = X^3 + X + 1 	p_5(X) = X^3 + X^2 + X + 1 

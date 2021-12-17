@@ -1,0 +1,17 @@
+Number of variables: n = 4
+GF extension exponent: l = 2
+Polynomials' degree: b = 1
+Total number of polynomials in file: 5
+Bent functions type: PS+
+Number of polynomials needed for a single function: t = 3
+
+Function: 953F nl: 6 deg: 2 2-Rank: 6 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 
+Function: 395F nl: 6 deg: 2 2-Rank: 6 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 
+Function: AC6F nl: 6 deg: 2 2-Rank: 6 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 
+Function: BD71 nl: 6 deg: 2 2-Rank: 6 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 
+Function: 539F nl: 6 deg: 2 2-Rank: 6 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_5(X) = X^1 + X + 3 
+Function: C6AF nl: 6 deg: 2 2-Rank: 6 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 
+Function: D7B1 nl: 6 deg: 2 2-Rank: 6 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 
+Function: 6ACF nl: 6 deg: 2 2-Rank: 6 Polynomials list:	p_1(X) = 1 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 
+Function: 7BD1 nl: 6 deg: 2 2-Rank: 6 Polynomials list:	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 
+Function: EEE1 nl: 6 deg: 2 2-Rank: 6 Polynomials list:	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3
