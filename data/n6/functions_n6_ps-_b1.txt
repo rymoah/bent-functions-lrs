@@ -5,129 +5,129 @@ Total number of polynomials in file: 9
 Bent functions type: PS-
 Number of polynomials needed for a single function: t = 4
 
-Function: 8943A131491507FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 
-Function: 91C1251329450BFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 
-Function: 1983852361510DFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 
-Function: 98C2A43268540EFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 
-Function: 99C3A53369550F00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 
-Function: C14529910B2513FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_6(X) = X^1 + X + 4 
-Function: 490789A1433115FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 	p_6(X) = X^1 + X + 4 
-Function: C846A8B04A3416FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_6(X) = X^1 + X + 4 
-Function: C947A9B14B351700 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_6(X) = X^1 + X + 4 
-Function: 51850D83236119FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 
-Function: D0C42C922A641AFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 
-Function: D1C52D932B651B00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 
-Function: 58868CA262701CFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 
-Function: 59878DA363711D00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 
-Function: D8C6ACB26A741E00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 
-Function: 835161190D8523FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_7(X) = X^1 + X + 5 
-Function: 0B13C129459125FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 	p_7(X) = X^1 + X + 5 
-Function: 8A52E0384C9426FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_7(X) = X^1 + X + 5 
-Function: 8B53E1394D952700 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_7(X) = X^1 + X + 5 
-Function: 1391450B25C129FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_5(X) = X^1 + X + 3 	p_7(X) = X^1 + X + 5 
-Function: 92D0641A2CC42AFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 	p_7(X) = X^1 + X + 5 
-Function: 93D1651B2DC52B00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 	p_7(X) = X^1 + X + 5 
-Function: 1A92C42A64D02CFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_7(X) = X^1 + X + 5 
-Function: 1B93C52B65D12D00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_7(X) = X^1 + X + 5 
-Function: 9AD2E43A6CD42E00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_7(X) = X^1 + X + 5 
-Function: 4315498907A131FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 
-Function: C25468980EA432FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 
-Function: C35569990FA53300 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 
-Function: 4A16C8A846B034FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X^1 + X + 2 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 
-Function: 4B17C9A947B13500 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 
-Function: CA56E8B84EB43600 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 
-Function: 52944C8A26E038FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 
-Function: 53954D8B27E13900 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 
-Function: D2D46C9A2EE43A00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 
-Function: 5A96CCAA66F03C00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 
-Function: A1493115890743FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_8(X) = X^1 + X + 6 
-Function: 290B9125C11345FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 	p_8(X) = X^1 + X + 6 
-Function: A84AB034C81646FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_8(X) = X^1 + X + 6 
-Function: A94BB135C9174700 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_8(X) = X^1 + X + 6 
-Function: 31891507A14349FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_5(X) = X^1 + X + 3 	p_8(X) = X^1 + X + 6 
-Function: B0C83416A8464AFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 	p_8(X) = X^1 + X + 6 
-Function: B1C93517A9474B00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 	p_8(X) = X^1 + X + 6 
-Function: 388A9426E0524CFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_8(X) = X^1 + X + 6 
-Function: 398B9527E1534D00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_8(X) = X^1 + X + 6 
-Function: B8CAB436E8564E00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_8(X) = X^1 + X + 6 
-Function: 610D1985832351FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_6(X) = X^1 + X + 4 	p_8(X) = X^1 + X + 6 
-Function: E04C38948A2652FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_6(X) = X^1 + X + 4 	p_8(X) = X^1 + X + 6 
-Function: E14D39958B275300 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_6(X) = X^1 + X + 4 	p_8(X) = X^1 + X + 6 
-Function: 680E98A4C23254FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X^1 + X + 2 	p_6(X) = X^1 + X + 4 	p_8(X) = X^1 + X + 6 
-Function: 690F99A5C3335500 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 	p_6(X) = X^1 + X + 4 	p_8(X) = X^1 + X + 6 
-Function: E84EB8B4CA365600 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_6(X) = X^1 + X + 4 	p_8(X) = X^1 + X + 6 
-Function: 708C1C86A26258FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 	p_8(X) = X^1 + X + 6 
-Function: 718D1D87A3635900 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 	p_8(X) = X^1 + X + 6 
-Function: F0CC3C96AA665A00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 	p_8(X) = X^1 + X + 6 
-Function: 788E9CA6E2725C00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 	p_8(X) = X^1 + X + 6 
-Function: 2319510D858361FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 
-Function: A258701C8C8662FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 
-Function: A359711D8D876300 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 
-Function: 2A1AD02CC49264FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X^1 + X + 2 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 
-Function: 2B1BD12DC5936500 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 
-Function: AA5AF03CCC966600 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 
-Function: 3298540EA4C268FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_5(X) = X^1 + X + 3 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 
-Function: 3399550FA5C36900 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_5(X) = X^1 + X + 3 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 
-Function: B2D8741EACC66A00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 
-Function: 3A9AD42EE4D26C00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 
-Function: 621C588C86A270FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 
-Function: 631D598D87A37100 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 
-Function: E25C789C8EA67200 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 
-Function: 6A1ED8ACC6B27400 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X^1 + X + 2 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 
-Function: 729C5C8EA6E27800 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 
-Function: 85612351190D83FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_9(X) = X^1 + X + 7 
-Function: 0D238361511985FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 	p_9(X) = X^1 + X + 7 
-Function: 8C62A270581C86FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_9(X) = X^1 + X + 7 
-Function: 8D63A371591D8700 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_9(X) = X^1 + X + 7 
-Function: 15A10743314989FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_5(X) = X^1 + X + 3 	p_9(X) = X^1 + X + 7 
-Function: 94E02652384C8AFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 	p_9(X) = X^1 + X + 7 
-Function: 95E12753394D8B00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 	p_9(X) = X^1 + X + 7 
-Function: 1CA2866270588CFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_9(X) = X^1 + X + 7 
-Function: 1DA3876371598D00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_9(X) = X^1 + X + 7 
-Function: 9CE2A672785C8E00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_9(X) = X^1 + X + 7 
-Function: 45250BC1132991FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_6(X) = X^1 + X + 4 	p_9(X) = X^1 + X + 7 
-Function: C4642AD01A2C92FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_6(X) = X^1 + X + 4 	p_9(X) = X^1 + X + 7 
-Function: C5652BD11B2D9300 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_6(X) = X^1 + X + 4 	p_9(X) = X^1 + X + 7 
-Function: 4C268AE0523894FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X^1 + X + 2 	p_6(X) = X^1 + X + 4 	p_9(X) = X^1 + X + 7 
-Function: 4D278BE153399500 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 	p_6(X) = X^1 + X + 4 	p_9(X) = X^1 + X + 7 
-Function: CC66AAF05A3C9600 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_6(X) = X^1 + X + 4 	p_9(X) = X^1 + X + 7 
-Function: 54A40EC2326898FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 	p_9(X) = X^1 + X + 7 
-Function: 55A50FC333699900 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 	p_9(X) = X^1 + X + 7 
-Function: D4E42ED23A6C9A00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 	p_9(X) = X^1 + X + 7 
-Function: 5CA68EE272789C00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 	p_9(X) = X^1 + X + 7 
-Function: 073143491589A1FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_7(X) = X^1 + X + 5 	p_9(X) = X^1 + X + 7 
-Function: 867062581C8CA2FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_7(X) = X^1 + X + 5 	p_9(X) = X^1 + X + 7 
-Function: 877163591D8DA300 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_7(X) = X^1 + X + 5 	p_9(X) = X^1 + X + 7 
-Function: 0E32C2685498A4FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X^1 + X + 2 	p_7(X) = X^1 + X + 5 	p_9(X) = X^1 + X + 7 
-Function: 0F33C3695599A500 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 	p_7(X) = X^1 + X + 5 	p_9(X) = X^1 + X + 7 
-Function: 8E72E2785C9CA600 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_7(X) = X^1 + X + 5 	p_9(X) = X^1 + X + 7 
-Function: 16B0464A34C8A8FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_5(X) = X^1 + X + 3 	p_7(X) = X^1 + X + 5 	p_9(X) = X^1 + X + 7 
-Function: 17B1474B35C9A900 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_5(X) = X^1 + X + 3 	p_7(X) = X^1 + X + 5 	p_9(X) = X^1 + X + 7 
-Function: 96F0665A3CCCAA00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 	p_7(X) = X^1 + X + 5 	p_9(X) = X^1 + X + 7 
-Function: 1EB2C66A74D8AC00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_7(X) = X^1 + X + 5 	p_9(X) = X^1 + X + 7 
-Function: 46344AC816A8B0FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 	p_9(X) = X^1 + X + 7 
-Function: 47354BC917A9B100 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 	p_9(X) = X^1 + X + 7 
-Function: C6746AD81EACB200 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 	p_9(X) = X^1 + X + 7 
-Function: 4E36CAE856B8B400 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X^1 + X + 2 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 	p_9(X) = X^1 + X + 7 
-Function: 56B44ECA36E8B800 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 	p_9(X) = X^1 + X + 7 
-Function: 25291345910BC1FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X^1 + X 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: A4683254980EC2FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X^1 + X + 1 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: A5693355990FC300 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_3(X) = X^1 + X + 1 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: 2C2A9264D01AC4FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X^1 + X + 2 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: 2D2B9365D11BC500 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_4(X) = X^1 + X + 2 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: AC6AB274D81EC600 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_4(X) = X^1 + X + 2 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: 34A81646B04AC8FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_5(X) = X^1 + X + 3 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: 35A91747B14BC900 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_5(X) = X^1 + X + 3 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: B4E83656B84ECA00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_5(X) = X^1 + X + 3 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: 3CAA9666F05ACC00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X^1 + X + 2 	p_5(X) = X^1 + X + 3 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: 642C1AC4922AD0FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_6(X) = X^1 + X + 4 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: 652D1BC5932BD100 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_6(X) = X^1 + X + 4 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: E46C3AD49A2ED200 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_6(X) = X^1 + X + 4 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: 6C2E9AE4D23AD400 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X^1 + X + 2 	p_6(X) = X^1 + X + 4 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: 74AC1EC6B26AD800 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_5(X) = X^1 + X + 3 	p_6(X) = X^1 + X + 4 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: 2638524C948AE0FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: 2739534D958BE100 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X^1 + X 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: A678725C9C8EE200 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X^1 + X + 1 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: 2E3AD26CD49AE400 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X^1 + X + 2 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: 36B8564EB4CAE800 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_5(X) = X^1 + X + 3 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
-Function: 663C5ACC96AAF000 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_6(X) = X^1 + X + 4 	p_7(X) = X^1 + X + 5 	p_8(X) = X^1 + X + 6 	p_9(X) = X^1 + X + 7 
+Function: 8943A131491507FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_3(X) = X + 1 	p_4(X) = X + 2 
+Function: 91C1251329450BFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_3(X) = X + 1 	p_5(X) = X + 3 
+Function: 1983852361510DFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_4(X) = X + 2 	p_5(X) = X + 3 
+Function: 98C2A43268540EFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X + 1 	p_4(X) = X + 2 	p_5(X) = X + 3 
+Function: 99C3A53369550F00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_3(X) = X + 1 	p_4(X) = X + 2 	p_5(X) = X + 3 
+Function: C14529910B2513FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_3(X) = X + 1 	p_6(X) = X + 4 
+Function: 490789A1433115FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_4(X) = X + 2 	p_6(X) = X + 4 
+Function: C846A8B04A3416FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X + 1 	p_4(X) = X + 2 	p_6(X) = X + 4 
+Function: C947A9B14B351700 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_3(X) = X + 1 	p_4(X) = X + 2 	p_6(X) = X + 4 
+Function: 51850D83236119FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_5(X) = X + 3 	p_6(X) = X + 4 
+Function: D0C42C922A641AFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X + 1 	p_5(X) = X + 3 	p_6(X) = X + 4 
+Function: D1C52D932B651B00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_3(X) = X + 1 	p_5(X) = X + 3 	p_6(X) = X + 4 
+Function: 58868CA262701CFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X + 2 	p_5(X) = X + 3 	p_6(X) = X + 4 
+Function: 59878DA363711D00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_4(X) = X + 2 	p_5(X) = X + 3 	p_6(X) = X + 4 
+Function: D8C6ACB26A741E00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_4(X) = X + 2 	p_5(X) = X + 3 	p_6(X) = X + 4 
+Function: 835161190D8523FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_3(X) = X + 1 	p_7(X) = X + 5 
+Function: 0B13C129459125FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_4(X) = X + 2 	p_7(X) = X + 5 
+Function: 8A52E0384C9426FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X + 1 	p_4(X) = X + 2 	p_7(X) = X + 5 
+Function: 8B53E1394D952700 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_3(X) = X + 1 	p_4(X) = X + 2 	p_7(X) = X + 5 
+Function: 1391450B25C129FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_5(X) = X + 3 	p_7(X) = X + 5 
+Function: 92D0641A2CC42AFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X + 1 	p_5(X) = X + 3 	p_7(X) = X + 5 
+Function: 93D1651B2DC52B00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_3(X) = X + 1 	p_5(X) = X + 3 	p_7(X) = X + 5 
+Function: 1A92C42A64D02CFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X + 2 	p_5(X) = X + 3 	p_7(X) = X + 5 
+Function: 1B93C52B65D12D00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_4(X) = X + 2 	p_5(X) = X + 3 	p_7(X) = X + 5 
+Function: 9AD2E43A6CD42E00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_4(X) = X + 2 	p_5(X) = X + 3 	p_7(X) = X + 5 
+Function: 4315498907A131FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_6(X) = X + 4 	p_7(X) = X + 5 
+Function: C25468980EA432FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X + 1 	p_6(X) = X + 4 	p_7(X) = X + 5 
+Function: C35569990FA53300 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_3(X) = X + 1 	p_6(X) = X + 4 	p_7(X) = X + 5 
+Function: 4A16C8A846B034FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X + 2 	p_6(X) = X + 4 	p_7(X) = X + 5 
+Function: 4B17C9A947B13500 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_4(X) = X + 2 	p_6(X) = X + 4 	p_7(X) = X + 5 
+Function: CA56E8B84EB43600 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_4(X) = X + 2 	p_6(X) = X + 4 	p_7(X) = X + 5 
+Function: 52944C8A26E038FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_5(X) = X + 3 	p_6(X) = X + 4 	p_7(X) = X + 5 
+Function: 53954D8B27E13900 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_5(X) = X + 3 	p_6(X) = X + 4 	p_7(X) = X + 5 
+Function: D2D46C9A2EE43A00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_5(X) = X + 3 	p_6(X) = X + 4 	p_7(X) = X + 5 
+Function: 5A96CCAA66F03C00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X + 2 	p_5(X) = X + 3 	p_6(X) = X + 4 	p_7(X) = X + 5 
+Function: A1493115890743FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_3(X) = X + 1 	p_8(X) = X + 6 
+Function: 290B9125C11345FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_4(X) = X + 2 	p_8(X) = X + 6 
+Function: A84AB034C81646FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X + 1 	p_4(X) = X + 2 	p_8(X) = X + 6 
+Function: A94BB135C9174700 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_3(X) = X + 1 	p_4(X) = X + 2 	p_8(X) = X + 6 
+Function: 31891507A14349FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_5(X) = X + 3 	p_8(X) = X + 6 
+Function: B0C83416A8464AFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X + 1 	p_5(X) = X + 3 	p_8(X) = X + 6 
+Function: B1C93517A9474B00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_3(X) = X + 1 	p_5(X) = X + 3 	p_8(X) = X + 6 
+Function: 388A9426E0524CFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X + 2 	p_5(X) = X + 3 	p_8(X) = X + 6 
+Function: 398B9527E1534D00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_4(X) = X + 2 	p_5(X) = X + 3 	p_8(X) = X + 6 
+Function: B8CAB436E8564E00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_4(X) = X + 2 	p_5(X) = X + 3 	p_8(X) = X + 6 
+Function: 610D1985832351FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_6(X) = X + 4 	p_8(X) = X + 6 
+Function: E04C38948A2652FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X + 1 	p_6(X) = X + 4 	p_8(X) = X + 6 
+Function: E14D39958B275300 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_3(X) = X + 1 	p_6(X) = X + 4 	p_8(X) = X + 6 
+Function: 680E98A4C23254FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X + 2 	p_6(X) = X + 4 	p_8(X) = X + 6 
+Function: 690F99A5C3335500 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_4(X) = X + 2 	p_6(X) = X + 4 	p_8(X) = X + 6 
+Function: E84EB8B4CA365600 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_4(X) = X + 2 	p_6(X) = X + 4 	p_8(X) = X + 6 
+Function: 708C1C86A26258FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_5(X) = X + 3 	p_6(X) = X + 4 	p_8(X) = X + 6 
+Function: 718D1D87A3635900 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_5(X) = X + 3 	p_6(X) = X + 4 	p_8(X) = X + 6 
+Function: F0CC3C96AA665A00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_5(X) = X + 3 	p_6(X) = X + 4 	p_8(X) = X + 6 
+Function: 788E9CA6E2725C00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X + 2 	p_5(X) = X + 3 	p_6(X) = X + 4 	p_8(X) = X + 6 
+Function: 2319510D858361FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_7(X) = X + 5 	p_8(X) = X + 6 
+Function: A258701C8C8662FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X + 1 	p_7(X) = X + 5 	p_8(X) = X + 6 
+Function: A359711D8D876300 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_3(X) = X + 1 	p_7(X) = X + 5 	p_8(X) = X + 6 
+Function: 2A1AD02CC49264FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X + 2 	p_7(X) = X + 5 	p_8(X) = X + 6 
+Function: 2B1BD12DC5936500 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_4(X) = X + 2 	p_7(X) = X + 5 	p_8(X) = X + 6 
+Function: AA5AF03CCC966600 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_4(X) = X + 2 	p_7(X) = X + 5 	p_8(X) = X + 6 
+Function: 3298540EA4C268FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_5(X) = X + 3 	p_7(X) = X + 5 	p_8(X) = X + 6 
+Function: 3399550FA5C36900 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_5(X) = X + 3 	p_7(X) = X + 5 	p_8(X) = X + 6 
+Function: B2D8741EACC66A00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_5(X) = X + 3 	p_7(X) = X + 5 	p_8(X) = X + 6 
+Function: 3A9AD42EE4D26C00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X + 2 	p_5(X) = X + 3 	p_7(X) = X + 5 	p_8(X) = X + 6 
+Function: 621C588C86A270FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_6(X) = X + 4 	p_7(X) = X + 5 	p_8(X) = X + 6 
+Function: 631D598D87A37100 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_6(X) = X + 4 	p_7(X) = X + 5 	p_8(X) = X + 6 
+Function: E25C789C8EA67200 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_6(X) = X + 4 	p_7(X) = X + 5 	p_8(X) = X + 6 
+Function: 6A1ED8ACC6B27400 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X + 2 	p_6(X) = X + 4 	p_7(X) = X + 5 	p_8(X) = X + 6 
+Function: 729C5C8EA6E27800 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_5(X) = X + 3 	p_6(X) = X + 4 	p_7(X) = X + 5 	p_8(X) = X + 6 
+Function: 85612351190D83FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_3(X) = X + 1 	p_9(X) = X + 7 
+Function: 0D238361511985FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_4(X) = X + 2 	p_9(X) = X + 7 
+Function: 8C62A270581C86FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X + 1 	p_4(X) = X + 2 	p_9(X) = X + 7 
+Function: 8D63A371591D8700 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_3(X) = X + 1 	p_4(X) = X + 2 	p_9(X) = X + 7 
+Function: 15A10743314989FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_5(X) = X + 3 	p_9(X) = X + 7 
+Function: 94E02652384C8AFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X + 1 	p_5(X) = X + 3 	p_9(X) = X + 7 
+Function: 95E12753394D8B00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_3(X) = X + 1 	p_5(X) = X + 3 	p_9(X) = X + 7 
+Function: 1CA2866270588CFE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X + 2 	p_5(X) = X + 3 	p_9(X) = X + 7 
+Function: 1DA3876371598D00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_4(X) = X + 2 	p_5(X) = X + 3 	p_9(X) = X + 7 
+Function: 9CE2A672785C8E00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_4(X) = X + 2 	p_5(X) = X + 3 	p_9(X) = X + 7 
+Function: 45250BC1132991FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_6(X) = X + 4 	p_9(X) = X + 7 
+Function: C4642AD01A2C92FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X + 1 	p_6(X) = X + 4 	p_9(X) = X + 7 
+Function: C5652BD11B2D9300 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_3(X) = X + 1 	p_6(X) = X + 4 	p_9(X) = X + 7 
+Function: 4C268AE0523894FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X + 2 	p_6(X) = X + 4 	p_9(X) = X + 7 
+Function: 4D278BE153399500 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_4(X) = X + 2 	p_6(X) = X + 4 	p_9(X) = X + 7 
+Function: CC66AAF05A3C9600 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_4(X) = X + 2 	p_6(X) = X + 4 	p_9(X) = X + 7 
+Function: 54A40EC2326898FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_5(X) = X + 3 	p_6(X) = X + 4 	p_9(X) = X + 7 
+Function: 55A50FC333699900 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_5(X) = X + 3 	p_6(X) = X + 4 	p_9(X) = X + 7 
+Function: D4E42ED23A6C9A00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_5(X) = X + 3 	p_6(X) = X + 4 	p_9(X) = X + 7 
+Function: 5CA68EE272789C00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X + 2 	p_5(X) = X + 3 	p_6(X) = X + 4 	p_9(X) = X + 7 
+Function: 073143491589A1FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_7(X) = X + 5 	p_9(X) = X + 7 
+Function: 867062581C8CA2FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X + 1 	p_7(X) = X + 5 	p_9(X) = X + 7 
+Function: 877163591D8DA300 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_3(X) = X + 1 	p_7(X) = X + 5 	p_9(X) = X + 7 
+Function: 0E32C2685498A4FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X + 2 	p_7(X) = X + 5 	p_9(X) = X + 7 
+Function: 0F33C3695599A500 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_4(X) = X + 2 	p_7(X) = X + 5 	p_9(X) = X + 7 
+Function: 8E72E2785C9CA600 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_4(X) = X + 2 	p_7(X) = X + 5 	p_9(X) = X + 7 
+Function: 16B0464A34C8A8FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_5(X) = X + 3 	p_7(X) = X + 5 	p_9(X) = X + 7 
+Function: 17B1474B35C9A900 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_5(X) = X + 3 	p_7(X) = X + 5 	p_9(X) = X + 7 
+Function: 96F0665A3CCCAA00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_5(X) = X + 3 	p_7(X) = X + 5 	p_9(X) = X + 7 
+Function: 1EB2C66A74D8AC00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X + 2 	p_5(X) = X + 3 	p_7(X) = X + 5 	p_9(X) = X + 7 
+Function: 46344AC816A8B0FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_6(X) = X + 4 	p_7(X) = X + 5 	p_9(X) = X + 7 
+Function: 47354BC917A9B100 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_6(X) = X + 4 	p_7(X) = X + 5 	p_9(X) = X + 7 
+Function: C6746AD81EACB200 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_6(X) = X + 4 	p_7(X) = X + 5 	p_9(X) = X + 7 
+Function: 4E36CAE856B8B400 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X + 2 	p_6(X) = X + 4 	p_7(X) = X + 5 	p_9(X) = X + 7 
+Function: 56B44ECA36E8B800 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_5(X) = X + 3 	p_6(X) = X + 4 	p_7(X) = X + 5 	p_9(X) = X + 7 
+Function: 25291345910BC1FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_2(X) = X 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: A4683254980EC2FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_3(X) = X + 1 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: A5693355990FC300 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_3(X) = X + 1 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: 2C2A9264D01AC4FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_4(X) = X + 2 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: 2D2B9365D11BC500 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_4(X) = X + 2 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: AC6AB274D81EC600 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_4(X) = X + 2 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: 34A81646B04AC8FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_5(X) = X + 3 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: 35A91747B14BC900 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_5(X) = X + 3 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: B4E83656B84ECA00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_5(X) = X + 3 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: 3CAA9666F05ACC00 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X + 2 	p_5(X) = X + 3 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: 642C1AC4922AD0FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_6(X) = X + 4 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: 652D1BC5932BD100 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_6(X) = X + 4 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: E46C3AD49A2ED200 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_6(X) = X + 4 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: 6C2E9AE4D23AD400 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X + 2 	p_6(X) = X + 4 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: 74AC1EC6B26AD800 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_5(X) = X + 3 	p_6(X) = X + 4 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: 2638524C948AE0FE nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_1(X) = 1 	p_7(X) = X + 5 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: 2739534D958BE100 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_2(X) = X 	p_7(X) = X + 5 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: A678725C9C8EE200 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_3(X) = X + 1 	p_7(X) = X + 5 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: 2E3AD26CD49AE400 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_4(X) = X + 2 	p_7(X) = X + 5 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: 36B8564EB4CAE800 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_5(X) = X + 3 	p_7(X) = X + 5 	p_8(X) = X + 6 	p_9(X) = X + 7 
+Function: 663C5ACC96AAF000 nl: 28 deg: 3 2-Rank: 14 Polynomials list:	p_6(X) = X + 4 	p_7(X) = X + 5 	p_8(X) = X + 6 	p_9(X) = X + 7 
